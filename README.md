@@ -1,4 +1,4 @@
-# READMEWizard
+# CarBuilder
 This command-line application lets users create and manage virtual cars with text-based commands, perfect for automotive enthusiasts and developers exploring car specifications and configurations.
 ## Description 
 This command-line application allows users to create and manage virtual cars through a series of text-based commands. It is designed for automotive enthusiasts, developers, or anyone interested in experimenting with car specifications and configurations.
