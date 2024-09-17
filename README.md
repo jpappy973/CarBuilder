@@ -3,7 +3,7 @@ This command-line application lets users create and manage virtual cars with tex
 ## Description 
 This command-line application allows users to create and manage virtual cars through a series of text-based commands. It is designed for automotive enthusiasts, developers, or anyone interested in experimenting with car specifications and configurations.
 # Video Demonstration
-[Video Demonstration]([https://streamable.com/ayp9py](https://app.screencastify.com/v3/watch/yqavunUAW5fKEYXENat8))
+[Video Demonstration](https://app.screencastify.com/v3/watch/yqavunUAW5fKEYXENat8)
 
 ## Getting started
 
