@@ -45,7 +45,7 @@ class Cli {
         // set the selectedVehicleVin to the vin of the selected vehicle
         this.selectedVehicleVin = answers.selectedVehicleVin;
         // perform actions on the selected vehicle
-        console.log(this.vehicles)
+        
         this.performActions();
       });
   }
@@ -338,7 +338,7 @@ class Cli {
           // find the selected vehicle and print its details
           for (let i = 0; i < this.vehicles.length; i++) {
             if (this.vehicles[i].vin === this.selectedVehicleVin) {
-              console.log(this.vehicles)
+              
               this.vehicles[i].printDetails();
             }
           }
